@@ -1,0 +1,17 @@
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bin\Debug\ReverseMap\resources.pri
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bin\Debug\AppxManifest.xml
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bin\Debug\TlsSzarekWebsite.build.appxrecipe
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\TlsSzarekWebsite.jsproj.CoreCompileInputs.cache
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\ResourceHandlingTask.state
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\priconfig.xml
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\priconfig.xml.intermediate
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\layout.resfiles
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\layout.resfiles.intermediate
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\resources.resfiles
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\resources.resfiles.intermediate
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\pri.resfiles
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\pri.resfiles.intermediate
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\qualifiers.txt
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\qualifiers.txt.intermediate
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BOLSON-PC\Desktop\studia\krystian2\BizPage\TlsSzarekWebsite\TlsSzarekWebsite\bld\Debug\ProjectArchitectures.txt
