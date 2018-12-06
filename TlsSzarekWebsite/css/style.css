@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 
     #header.header-scrolled {
         background: rgba(0, 0, 0, 0.9);
-        padding: 20px 0;
+        padding: 12px 0;
         height: 72px;
         transition: all 0.5s;
     }
@@ -110,7 +110,6 @@ h1, h2, h3, h4, h5, h6 {
     #header #logo h1 a, #header #logo h1 a:hover {
         color: #fff;
         padding-left: 10px;
-        border-left: 4px solid #ff5e00;
     }
 
 #header #logo img {
@@ -332,6 +331,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 1024px) {
     #nav-menu-container {
         padding-right: 60px;
+        padding-top: 10px;
     }
 }
 
