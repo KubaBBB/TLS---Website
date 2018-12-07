@@ -582,6 +582,7 @@ body.mobile-nav-active {
         font-weight: 400;
         margin: 15px 0;
         font-size: 18px;
+        color: #fff
     }
 
         #featured-services h4 a {
@@ -602,7 +603,7 @@ body.mobile-nav-active {
 /* About Us Section
 --------------------------------*/
 #about {
-    background: url("../img/about-bg.jpg") center top no-repeat fixed;
+    background: url("../img/map-bg_1.png") center top no-repeat fixed;
     background-size: cover;
     padding: 60px 0 40px 0;
     position: relative;
@@ -809,7 +810,7 @@ body.mobile-nav-active {
     }
 
 #skills {
-    background: url("../img/facts-bg.jpg") center top no-repeat fixed;
+    background: url("../img/city.jpg") center top no-repeat fixed;
     background-size: cover;
     padding: 60px 0 0 0;
     position: relative;
@@ -855,7 +856,7 @@ body.mobile-nav-active {
 /* Facts Section
 --------------------------------*/
 #facts {
-    background: url("../img/facts-bg.jpg") center top no-repeat fixed;
+    background: url("../img/city.jpg") center top no-repeat fixed;
     background-size: cover;
     padding: 60px 0 0 0;
     position: relative;
